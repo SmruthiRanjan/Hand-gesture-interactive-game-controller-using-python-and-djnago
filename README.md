@@ -1,4 +1,4 @@
-# HANDGESTUREGAMECONTROLLER
+# Hand Gesture Interactive Game Controller using py and djnago
 ------------------------------
 STEP 1: Extract the file
 ------------------------------
